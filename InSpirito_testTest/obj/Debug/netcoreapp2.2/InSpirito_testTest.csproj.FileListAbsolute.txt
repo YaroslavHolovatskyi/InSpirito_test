@@ -1,0 +1,17 @@
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.csprojAssemblyReference.cache
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.csproj.CoreCompileInputs.cache
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.AssemblyInfoInputs.cache
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.AssemblyInfo.cs
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_testTest.deps.json
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_testTest.runtimeconfig.json
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_testTest.runtimeconfig.dev.json
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_testTest.dll
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_test.dll
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_test.pdb
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.csproj.CopyComplete
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\bin\Debug\netcoreapp2.2\InSpirito_testTest.pdb
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.dll
+C:\Users\Nitro5\source\repos\InSpirito_test\InSpirito_testTest\obj\Debug\netcoreapp2.2\InSpirito_testTest.pdb

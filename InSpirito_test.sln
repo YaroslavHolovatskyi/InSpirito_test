@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InSpirito_test", "InSpirito_test\InSpirito_test.csproj", "{9E0D91D9-3411-4E05-A3EC-663F9638E67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSpirito_testTest", "InSpirito_testTest\InSpirito_testTest.csproj", "{737F4908-549A-4E12-A2E6-57FCCDB4AFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0D91D9-3411-4E05-A3EC-663F9638E67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0D91D9-3411-4E05-A3EC-663F9638E67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0D91D9-3411-4E05-A3EC-663F9638E67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0D91D9-3411-4E05-A3EC-663F9638E67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737F4908-549A-4E12-A2E6-57FCCDB4AFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737F4908-549A-4E12-A2E6-57FCCDB4AFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737F4908-549A-4E12-A2E6-57FCCDB4AFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737F4908-549A-4E12-A2E6-57FCCDB4AFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A6CB50-3209-4036-899B-6B653000E7BB}
+	EndGlobalSection
+EndGlobal
